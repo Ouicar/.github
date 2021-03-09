@@ -1,5 +1,6 @@
-## [TAG] Pull Request Title
-*Available tags:* `[Feature]`, `[Release]`, `[Hotfix]`, `[Refactor]`, `[Fix]`
+## type (scope) Pull Request Title
+*Available types:* `feat`, `release`, `hotfix`, `fix`, `refactor`, `docs`
+*Scope is optional*
 
 *Describe here the changes this PR is bringing*
 
