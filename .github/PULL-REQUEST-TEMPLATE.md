@@ -4,6 +4,7 @@ For the Pull Request title, use the following format:
 TOP-#### | type(scope): short description
 
 use NO_US when Jira ticket does not exist
+omit Jira ticket when PR is related to more than one Jira ticket
 types can be: feat, release, hotfix, fix, refactor, docs
 scope is optional
 -->
