@@ -26,4 +26,4 @@ These changes improve_things
 <!-- Add references to the specifications, JIRA tickets, or whatever -->
 
 - **Specs**: confluence_pages
-- **JIRA**: jira_tickets
+- **JIRA**: https://ouicar.atlassian.net/browse/TOP-****
