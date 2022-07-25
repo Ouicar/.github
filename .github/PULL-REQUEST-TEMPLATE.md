@@ -27,3 +27,12 @@ These changes improve_things
 
 - **Specs**: confluence_pages
 - **JIRA**: https://ouicar.atlassian.net/browse/TOP-****
+
+<!-- Code quality Check list  -->
+
+| Question                                      | Answer |
+|-----------------------------------------------|-------:|
+| Is documentation up to date ?                 | yes/no |
+| Does this modification may impact Data Team ? | yes/no |
+| Have you check performance impact ?           | yes/no |   
+| Translation needed ?                          | yes/no |
