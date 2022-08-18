@@ -30,8 +30,6 @@ These changes improve_things
 
 <!-- Code quality Check list  -->
 
-
-
 - [ ] Is documentation up to date ? 
 - [ ] Does this modification may impact Data Team ?
 - [ ] Have you check performance impact ?
