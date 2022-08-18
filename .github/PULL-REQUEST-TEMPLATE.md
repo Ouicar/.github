@@ -30,9 +30,9 @@ These changes improve_things
 
 <!-- Code quality Check list  -->
 
-| Question                                      | Answer |
-|-----------------------------------------------|-------:|
-| Is documentation up to date ?                 | yes/no |
-| Does this modification may impact Data Team ? | yes/no |
-| Have you check performance impact ?           | yes/no |   
-| Translation needed ?                          | yes/no |
+
+
+- [ ] Is documentation up to date ? 
+- [ ] Does this modification may impact Data Team ?
+- [ ] Have you check performance impact ?
+- [ ] Translation needed ?
