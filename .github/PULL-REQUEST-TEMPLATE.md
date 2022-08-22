@@ -32,5 +32,5 @@ These changes improve_things
 
 - [ ] Is documentation up to date ? 
 - [ ] Does this modification may impact Data Team ?
-- [ ] Have you check performance impact ?
+- [ ] Have you checked performance impact ?
 - [ ] Translation needed ?
