@@ -28,9 +28,14 @@ These changes improve_things
 - **Specs**: confluence_pages
 - **JIRA**: https://ouicar.atlassian.net/browse/TOP-****
 
-<!-- Code quality Check list  -->
+<!-- Data validations -->
+## Require data team validations 
+- [ ] is my PR introduce a change DB structure in business service (new/modification/deletion of a field or a table) ?
+- [ ] is my PR introduce a new state value ?
 
-- [ ] Is documentation up to date ? 
-- [ ] Does this modification may impact Data Team ?
-- [ ] Have you checked performance impact ?
-- [ ] Translation needed ?
+<!-- Code quality Check list  -->
+## Quality validations
+
+- [ ] Is documentation up to date ? 
+- [ ] Have you checked performance impact ?
+- [ ] Translation needed ?
